@@ -3,6 +3,8 @@
 ## Overview
 This project focuses on efficiently retrieving website information for all restaurants in New York City using the Google Places API. While NYC has a comprehensive database containing addresses and geographical coordinates for all its restaurants, it notably lacks website information. The goal is to collect website URIs for these known locations, which will later be scraped for menu data to populate a restaurant recommendation application.
 
+[Project Notebook](project_notebook.ipynb)
+
 ## Challenge
 To obtain each restaurant's website URI, individual API calls using the business's name and/or address are an option. However:
 - **Cost per call**: $0.05.
