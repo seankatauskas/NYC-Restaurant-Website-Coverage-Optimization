@@ -1,0 +1,11 @@
+numpy
+scikit-learn
+pandas
+geopy
+tqdm
+requests
+matplotlib
+geopandas
+shapely
+scipy
+jupyter
